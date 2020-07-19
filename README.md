@@ -1,5 +1,7 @@
 # CLIOUDE - Deploy
 
+Moved to https://github.com/ccw630/CliOuDE
+
 ## 单机部署(docker-compose)
 
 同时启动 Editor、Server、Worker、LSP Hub 及数据库存储(PostgreSQL)容器。
